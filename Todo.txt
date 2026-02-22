@@ -1,0 +1,8 @@
+setup Git repository
+handle visual studio file the right way
+replace undo with nope
+try Vosk for dutch
+make var work in C#
+make int work in C#
+make it easier to access the command search in visual studio code
+create window switchback

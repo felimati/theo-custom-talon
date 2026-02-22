@@ -1,4 +1,3 @@
-setup Git repository
 handle visual studio file the right way
 replace undo with nope
 try Vosk for dutch
